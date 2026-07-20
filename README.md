@@ -22,3 +22,17 @@ Nous répondons sous quelques jours ouvrés.
 
 Fitcoon fonctionne **en local** : aucune donnée personnelle n'est envoyée à nos serveurs.
 Les intégrations Santé (HealthKit) restent sur l'appareil ; la synchronisation Fitbit est **optionnelle** et activée par toi.
+
+## Versions
+
+| Version | Date | Notes |
+|---|---|---|
+| **5.3.2** | 20 juillet 2026 | Correction d'un plantage à la validation d'une série (minuteur de repos) sur Android 14/15. |
+| 5.3.1 | 18 juillet 2026 | Mises à jour automatiques (vérification au lancement, bandeau discret). |
+| 5.3.0 | juillet 2026 | Fitcoon devient 100 % gratuit. |
+
+## Télécharger
+
+- **Google Play** : [Fitcoon sur le Play Store](https://play.google.com/store/apps/details?id=com.fitprogress.studio) *(test fermé en cours — production à venir)*
+- **App Store (iPhone)** : Fitcoon est disponible sur l'App Store
+- **APK direct** : voir les [Releases](https://github.com/jdviallat/fitcoon/releases)
