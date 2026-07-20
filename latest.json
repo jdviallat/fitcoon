@@ -1,7 +1,7 @@
 {
-  "version": "5.3.1",
+  "version": "5.3.2",
   "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Fitcoon 100 % gratuit, accueil repensé, page Séance clair & épuré, +14 exercices, +3 programmes, +14 variations d'exécution.",
+  "notes": "Correction d'un plantage à la validation d'une série (minuteur de repos) sur Android 14/15.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
