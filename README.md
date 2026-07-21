@@ -27,7 +27,8 @@ Les intégrations Santé (HealthKit) restent sur l'appareil ; la synchronisation
 
 | Version | Date | Notes |
 |---|---|---|
-| **5.4.0** | 21 juillet 2026 | Grande refonte visuelle (accueil, filtres, programmes, fiche, séance). |
+| **5.5.0** | 21 juillet 2026 | Historique éditable, filtres et cartes musculaires des séances, courbes repensées, récupération musculaire. |
+| 5.4.0 | 21 juillet 2026 | Grande refonte visuelle (accueil, filtres, programmes, fiche, séance). |
 | 5.3.2 | 20 juillet 2026 | Correction d'un plantage à la validation d'une série (minuteur de repos) sur Android 14/15. |
 | 5.3.1 | 18 juillet 2026 | Mises à jour automatiques (vérification au lancement, bandeau discret). |
 | 5.3.0 | juillet 2026 | Fitcoon devient 100 % gratuit. |

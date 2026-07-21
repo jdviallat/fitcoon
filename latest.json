@@ -1,7 +1,7 @@
 {
-  "version": "5.4.0",
+  "version": "5.5.0",
   "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Grande refonte visuelle : nouvel accueil, vrais filtres d'exercices, programmes en couvertures, fiche exercice premium, séance immersive.",
+  "notes": "Séances passées modifiables, filtres et cartes musculaires des séances, courbes de progression repensées, récupération musculaire, ajout d'exercices en séance avec vignettes.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
