@@ -1,7 +1,7 @@
 {
-  "version": "5.5.0",
+  "version": "5.6.0",
   "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Séances passées modifiables, filtres et cartes musculaires des séances, courbes de progression repensées, récupération musculaire, ajout d'exercices en séance avec vignettes.",
+  "notes": "Coach de surcharge progressive, échauffement auto, disques sur la barre, records par répétitions, recherche globale, refaire une séance, 10 exercices et 4 séances en plus, variations illustrées — tout 100% hors-ligne.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
