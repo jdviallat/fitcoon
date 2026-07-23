@@ -1,7 +1,7 @@
 {
-  "version": "5.7.0",
+  "version": "5.8.0",
   "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Bilan de la semaine automatique, radar d'équilibre musculaire, objectifs long terme avec trajectoire, widget d'accueil enrichi.",
+  "notes": "Tuiles d'accueil cliquables, assistant de programme et générateur relookés, aperçu anatomique pour les exercices sans animation.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }

@@ -27,7 +27,8 @@ Les intégrations Santé (HealthKit) restent sur l'appareil ; la synchronisation
 
 | Version | Date | Notes |
 |---|---|---|
-| **5.7.0** | 23 juillet 2026 | Bilan hebdo automatique, radar d'équilibre musculaire, objectifs long terme + trajectoire, widget enrichi. |
+| **5.8.0** | 23 juillet 2026 | Tuiles d'accueil cliquables, assistant & générateur relookés, aperçu anatomique des exercices sans animation, 2 animations ajoutées. |
+| 5.7.0 | 23 juillet 2026 | Bilan hebdo automatique, radar d'équilibre musculaire, objectifs long terme + trajectoire, widget enrichi. |
 | 5.6.0 | 22 juillet 2026 | Coach (surcharge, échauffement, disques, records par reps), recherche globale, +10 exos +4 séances +21 animations, variations illustrées — 100% hors-ligne. |
 | 5.5.0 | 21 juillet 2026 | Historique éditable, filtres et cartes musculaires des séances, courbes repensées, récupération musculaire. |
 | 5.4.0 | 21 juillet 2026 | Grande refonte visuelle (accueil, filtres, programmes, fiche, séance). |
