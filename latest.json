@@ -1,7 +1,7 @@
 {
-  "version": "5.9.0",
+  "version": "5.9.1",
   "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Mode salle mains libres (voix + gros boutons), Fitcoon Duo (partage de programme par QR), connexion Fitbit.",
+  "notes": "Aide de connexion des montres (Health Connect, Fitbit, Apple Watch) dans Objets connectés.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
