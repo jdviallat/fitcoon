@@ -12,6 +12,12 @@
 
 _Par Bengacoon._
 
+## Documentation
+
+- 📖 [Descriptif complet des fonctionnalités](FONCTIONNALITES.md)
+- 🗒️ [Historique des versions](CHANGELOG.md)
+
+
 ## Support & contact
 
 Un souci, une question ou une suggestion ? Écris-nous : **jdviallat@gmail.com**
