@@ -27,7 +27,8 @@ Les intégrations Santé (HealthKit) restent sur l'appareil ; la synchronisation
 
 | Version | Date | Notes |
 |---|---|---|
-| **5.9.1** | 23 juillet 2026 | Aide de connexion des montres (Health Connect, Fitbit, Apple Watch). |
+| **5.10.0** | 24 juillet 2026 | Tour de bienvenue + partage d une seance en image. |
+| 5.9.1 | 23 juillet 2026 | Aide de connexion des montres (Health Connect, Fitbit, Apple Watch). |
 | 5.9.0 | 23 juillet 2026 | Mode salle mains libres (voix), Fitcoon Duo (partage par QR), connexion Fitbit. |
 | 5.8.0 | 23 juillet 2026 | Tuiles d'accueil cliquables, assistant & générateur relookés, aperçu anatomique des exercices sans animation, 2 animations ajoutées. |
 | 5.7.0 | 23 juillet 2026 | Bilan hebdo automatique, radar d'équilibre musculaire, objectifs long terme + trajectoire, widget enrichi. |
