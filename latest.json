@@ -1,7 +1,7 @@
 {
-  "version": "5.12.0",
-  "url": "https://play.google.com/store/apps/details?id=com.fitprogress.studio",
-  "notes": "Modifie le nombre de series en seance, nouveaux exercices et machines cardio animees, historique cliquable avec conseils.",
+  "version": "5.20.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.0/Fitcoon-v5.20.0.apk",
+  "notes": "Catalogue d'exercices traduit en 9 langues (hors-ligne). Correction : programme Prenatal & Postnatal masque pour les hommes. Compatibilite Android 16 et Play Billing 8.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
