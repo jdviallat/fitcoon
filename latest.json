@@ -1,7 +1,7 @@
 {
-  "version": "5.20.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.0/Fitcoon-v5.20.0.apk",
-  "notes": "Catalogue d'exercices traduit en 9 langues (hors-ligne). Correction : programme Prenatal & Postnatal masque pour les hommes. Compatibilite Android 16 et Play Billing 8.",
+  "version": "5.20.1",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.1/Fitcoon-v5.20.1.apk",
+  "notes": "Correction : programme Prenatal & Postnatal propose/liste uniquement si le profil indique Femme.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
