@@ -1,7 +1,7 @@
 {
-  "version": "5.20.2",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.2/Fitcoon-v5.20.2.apk",
-  "notes": "Notification de mise a jour au lancement (fenetre Mettre a jour / Plus tard). Rappel : programme Prenatal & Postnatal reserve au profil Femme. Android 16 et Play Billing 8.",
+  "version": "5.20.3",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.3/Fitcoon-v5.20.3.apk",
+  "notes": "Sauvegarde anti-perte de donnees : dossier externe qui survit a la desinstallation + restauration en 1 tap au 1er lancement.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
