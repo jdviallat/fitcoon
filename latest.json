@@ -1,7 +1,7 @@
 {
-  "version": "5.21.0-beta1",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.21.0-beta1/Fitcoon-v5.21.0-beta1.apk",
-  "notes": "Beta : nouveau style Glossy a tester (Reglages > Style de l'app > Glossy). Original reste par defaut.",
+  "version": "5.21.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.21.0/Fitcoon-v5.21.0.apk",
+  "notes": "Nouveau style Glossy (Reglages > Style de l'app). Mises a jour plus sures : donnees conservees meme en sautant des versions.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
