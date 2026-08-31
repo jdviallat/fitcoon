@@ -1,7 +1,7 @@
 {
-  "version": "5.21.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.21.0/Fitcoon-v5.21.0.apk",
-  "notes": "Nouveau style Glossy (Reglages > Style de l'app). Mises a jour plus sures : donnees conservees meme en sautant des versions.",
+  "version": "5.22.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.22.0/Fitcoon-v5.22.0.apk",
+  "notes": "Callisthenie + Mon materiel (filtre programmes/exos), Serie express au fil de la journee, Point de forme avant seance.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
