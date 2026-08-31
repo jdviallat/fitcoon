@@ -1,7 +1,7 @@
 {
-  "version": "5.20.3",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.20.3/Fitcoon-v5.20.3.apk",
-  "notes": "Sauvegarde anti-perte de donnees : dossier externe qui survit a la desinstallation + restauration en 1 tap au 1er lancement.",
+  "version": "5.21.0-beta1",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.21.0-beta1/Fitcoon-v5.21.0-beta1.apk",
+  "notes": "Beta : nouveau style Glossy a tester (Reglages > Style de l'app > Glossy). Original reste par defaut.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
