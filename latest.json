@@ -1,7 +1,7 @@
 {
-  "version": "5.23.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.23.0/Fitcoon-v5.23.0.apk",
-  "notes": "Mon materiel enrichi et editable (barres/disques/halteres/machines/elastiques/photos). Plus de callisthenie (8 programmes + 12 seances). Filtre seances Callisthenie/Salle/Maison.",
+  "version": "5.24.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.24.0/Fitcoon-v5.24.0.apk",
+  "notes": "Documentation complete integree dans l'app (Guide > Documentation), 100% hors-ligne.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
