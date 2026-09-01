@@ -1,7 +1,7 @@
 {
-  "version": "5.24.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.24.0/Fitcoon-v5.24.0.apk",
-  "notes": "Documentation complete integree dans l'app (Guide > Documentation), 100% hors-ligne.",
+  "version": "5.25.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.25.0/Fitcoon-v5.25.0.apk",
+  "notes": "Documentation integree traduite dans les 9 langues de l'app (fr, en, de, it, pt, es, sv, no, fi), affichage automatique dans ta langue, 100% hors-ligne.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
