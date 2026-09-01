@@ -1,7 +1,7 @@
 {
-  "version": "5.22.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.22.0/Fitcoon-v5.22.0.apk",
-  "notes": "Callisthenie + Mon materiel (filtre programmes/exos), Serie express au fil de la journee, Point de forme avant seance.",
+  "version": "5.23.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.23.0/Fitcoon-v5.23.0.apk",
+  "notes": "Mon materiel enrichi et editable (barres/disques/halteres/machines/elastiques/photos). Plus de callisthenie (8 programmes + 12 seances). Filtre seances Callisthenie/Salle/Maison.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
