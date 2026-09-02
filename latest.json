@@ -1,7 +1,7 @@
 {
-  "version": "5.26.0",
-  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.26.0/Fitcoon-v5.26.0.apk",
-  "notes": "Tout le contenu (programmes, techniques, finishers, mobilite, WOD, analyses, quetes) traduit dans les 9 langues, repli francais automatique. 100% hors-ligne.",
+  "version": "5.27.0",
+  "url": "https://github.com/jdviallat/fitcoon/releases/download/v5.27.0/Fitcoon-v5.27.0.apk",
+  "notes": "Detail des exercices (position, etapes, respiration, erreurs, securite, variantes) + noms de muscles traduits en 7 langues. 100% hors-ligne.",
   "obligatoire": false,
   "minVersion": "5.0.0"
 }
