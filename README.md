@@ -51,5 +51,5 @@ Les intégrations Santé (HealthKit) restent sur l'appareil ; la synchronisation
 ## Télécharger
 
 - **Google Play** : [Fitcoon sur le Play Store](https://play.google.com/store/apps/details?id=com.fitprogress.studio) *(test fermé en cours — production à venir)*
-- **App Store (iPhone)** : Fitcoon est disponible sur l'App Store
+- **App Store (iPhone)** : [Fitcoon sur l'App Store](https://apps.apple.com/app/id6792006442) *(disponible)*
 - **APK direct** : voir les [Releases](https://github.com/jdviallat/fitcoon/releases)
